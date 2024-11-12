@@ -650,3 +650,5 @@ Conclusión
 Este enfoque implementa un sistema de autenticación basado en nombre de usuario y contraseña utilizando Firestore para almacenar los datos de usuario. 
 Ten en cuenta que este sistema es muy básico y en un entorno de producción es recomendable cifrar las contraseñas antes de almacenarlas. 
 También puedes considerar integrar Firebase Authentication si en algún momento decides usar otros métodos de autenticación o agregar seguridad adicional.
+
+
